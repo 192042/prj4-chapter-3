@@ -8,6 +8,8 @@
     border: 1px solid blue;
     text-align: center;
     background-color: yellow;
+	margin-right: 50px;
+	margin-left: 50px;
 }
 .my-class {
     color: red;
